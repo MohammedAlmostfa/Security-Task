@@ -1,6 +1,6 @@
 # Scuirty task
 
-This project was designed to manage tasks
+This project was designed to manage  users tasks
 
 ## Attributes
 
